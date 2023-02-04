@@ -1,0 +1,20 @@
+{
+  "name": "discord-ehandler",
+  "version": "1.0.0",
+  "description": "Advanced Command + Event Handler (Discord.js v14)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusco1982/discord-ehandler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusco1982/discord-ehandler/issues"
+  },
+  "homepage": "https://github.com/cusco1982/discord-ehandler#readme"
+}
